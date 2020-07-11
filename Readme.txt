@@ -1,5 +1,7 @@
 ### To run the application in production mode:
 
+# needs to be build in development
+
 # installs a local server
 npm install -g serve
 
@@ -23,7 +25,7 @@ npm run start
 
 # follow the link in the console (http://localhost:8080/#/)
 
-# To build the application (already done)
+# To build the application
 npm run build
 
 Funcitonality and assumptions:
